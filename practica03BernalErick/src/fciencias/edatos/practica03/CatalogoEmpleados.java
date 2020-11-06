@@ -6,7 +6,6 @@ import java.util.Scanner;
 
 public class CatalogoEmpleados{
     Lista<Empleado> empleados;
-    int cont = 0;
     
     public CatalogoEmpleados(){
 	empleados = new Lista<Empleado>();
@@ -23,8 +22,7 @@ public class CatalogoEmpleados{
      * @param empleado el empleado a agregar.
      */
     public void alta(Empleado e){
-	empleados.add(cont, e);
-	cont++;
+	empleados.add(0, e);
     }
     
     /** Elimina el empleado en la posción i.
