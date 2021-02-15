@@ -1,0 +1,23 @@
+<!--
+Archivo de descripción para automoviles XML.
+Author: Erick Bernal Márquez, 317042522
+Version: 1.0 2020
+-->
+
+<!ELEMENT Automoviles (#PCDATA) >
+<!ELEMENT Auto (#PCDATA) >
+<!ELEMENT Propietario (#PCDATA) >
+<!ELEMENT Opinion (#PCDATA) >
+
+<!ATTLIST Auto marca CDATA #REQUIRED >
+<!ATTLIST Auto modelo CDATA #REQUIRED >
+
+<!ATTLIST Auto placas CDATA #IMPLIED >
+<!ATTLIST Auto anio CDATA #IMPLIED >
+
+<!ATTLIST Propietario nombre CDATA #REQUIRED >
+<!ATTLIST Propietario paterno CDATA #REQUIRED >
+<!ATTLIST Propietario materno CDATA #REQUIRED >
+
+
+

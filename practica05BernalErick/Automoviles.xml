@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Automoviles SYSTEM "Automoviles.dtd">
+
+<Automoviles>
+	<Auto marca="Honda" modelo="Civic" placas="DFS-76-23">
+		<Propietario nombre="Pablo" materno="Moreno" paterno="Reyes"/>
+		<Opinion>Tiene muy buen rendimiento</Opinion>
+	</Auto>
+	<Auto marca="BMW" modelo="Serie 2" anio="2014">
+		<Propietario nombre="Esteban" materno="Herrera" paterno="Ortega"/>
+		<Opinion>Ahorra gasolina</Opinion>
+	</Auto>
+	<Auto marca="Ford" modelo="Focus" placas="HBZ-87-32" anio="2015">
+		<Propietario nombre="Daniela" materno="Torres" paterno="Aguilar"/>
+		<Opinion>Es muy practico</Opinion>
+	</Auto>
+	<Auto marca="Nissan" modelo="X-Trail">
+		<Propietario nombre="Laura" materno="Lara" paterno="Fuentes"/>
+		<Opinion>Buena distribucion de espacio</Opinion>
+	</Auto>
+</Automoviles>
