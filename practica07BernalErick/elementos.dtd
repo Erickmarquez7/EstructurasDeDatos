@@ -1,0 +1,17 @@
+<!--
+Archivo de descripción para ciudades XML.
+Author: Erick Bernal Márquez, 317042522
+Version: 1.0 2020
+-->
+
+<!ELEMENT tablas (#PCDATA) >
+
+<!ELEMENT elemento (#PCDATA) >
+
+<!ATTLIST elemento nombre CDATA #REQUIRED >
+<!ATTLIST elemento simbolo CDATA #REQUIRED >
+<!ATTLIST elemento numero CDATA #REQUIRED >
+<!ATTLIST elemento masa CDATA #REQUIRED >
+
+
+
