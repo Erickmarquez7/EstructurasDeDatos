@@ -1,0 +1,21 @@
+<!--
+Archivo de descripción para ciudades XML.
+Author: Erick Bernal Márquez, 317042522
+Version: 1.0 2020
+-->
+
+<!ELEMENT Ciudades (#PCDATA) >
+
+<!ELEMENT Ciudad (#PCDATA) >
+<!ELEMENT Coordenadas (#PCDATA) >
+
+
+<!ATTLIST Ciudad nombre CDATA #REQUIRED >
+<!ATTLIST Ciudad estado CDATA #REQUIRED >
+
+<!ATTLIST Coordenadas coordenadasx CDATA #REQUIRED >
+<!ATTLIST Coordenadas coordenadasy CDATA #REQUIRED >
+
+
+
+
