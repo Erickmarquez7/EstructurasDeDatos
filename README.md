@@ -1,4 +1,4 @@
-# Practicas de la materia Estructuras de datos
+## Practicas de la materia Estructuras de datos
 
 #### Las practicas se ejecutan con los siguientes comandos 
 1. ant build
@@ -8,7 +8,7 @@
 #### Para limpiar archivos
 1. ant clean
 
-## Practicas
+### Practicas
 1. Operaciones con matrices
 2. Encuentra anagramas de manera recursiva
 3. Lista de empleados, utiliza la estructura de datos Lista

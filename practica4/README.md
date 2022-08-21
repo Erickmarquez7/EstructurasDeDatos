@@ -1,18 +1,6 @@
-Erick Bernal Márquez        317042522
-Practica 4                  Nov/2020
+## Práctica 4
 
-fue dificil :'v
+Simulador de atención de clientes de un restaurante utilizando una estructura de datos apropiadas para la ocasión, en este caso cola.
 
-Para ejecutar  la práctica se usan los siguientes comandos:
+Fue dificil :'v
 
-1. ant build
-
-2. ant jar
-
-3. ant run
-
-Para limpiar archivos:
-
-4. ant clean
-
- 

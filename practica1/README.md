@@ -1,17 +1,9 @@
-Bernal Márquez Erick.       317042522
+## Práctica 1
 
-La complicación mas complicadamente complicada fue la multiplicación de matrices.
+Operaciones con Matrices tales como suma, resta, multiplicación, traspuesta, etc.
 
-Para ejecutar  la práctica se usan los siguientes comandos:
+Existen cuatro matrices pre-hechas, solo hay que descomentar las lineas donde estas se crean. Aunque también pueden poner las suyas.
 
-1. ant build
+Tuve problemas son Serializable asi que lo hice por medio de buffers
 
-2. ant jar
-
-3. ant run
-
-Para limpiar archivos:
-
-4. ant clean
-
- 
+Sé que pude haberlo hecho mejor xd haciendo que la clase tenga métodos estáticos, pero pues estaba aprendiendo xd

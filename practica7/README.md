@@ -1,18 +1,6 @@
-Erick Bernal Márquez		317042522
-Practica 6:arboles		enero/2021
+## Práctica 1
 
-El programa se llama "Abril" porque tengo una amiga que se llama así que estudia química, lol, fue lo primero que se me ocurrió.
+Abril calcula el peso molecular de una formula quimica, en donde utilizamos un hashmap para ir guardando los elementos
 
-Para ejecutar  la práctica se usan los siguientes comandos:
+El programa se llama "Abril" porque tengo una amiga que se llama así que estudia química y fue lo primero que se me ocurrió, lol.
 
-1. ant build
-
-2. ant jar
-
-3. ant run
-
-Para limpiar archivos:
-
-4. ant clean
-
- 
